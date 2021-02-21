@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{55F98239-3740-4406-86E8-7F0A26CFB8BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{320F37E0-66FB-4BC4-A3BC-7996D27C5A69}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TrainingFacility", "src\TrainingFacility\TrainingFacility.xproj", "{DFD3E6DF-DE45-4940-84EB-46A56E82FAF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD3E6DF-DE45-4940-84EB-46A56E82FAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD3E6DF-DE45-4940-84EB-46A56E82FAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD3E6DF-DE45-4940-84EB-46A56E82FAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD3E6DF-DE45-4940-84EB-46A56E82FAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DFD3E6DF-DE45-4940-84EB-46A56E82FAF6} = {55F98239-3740-4406-86E8-7F0A26CFB8BE}
+	EndGlobalSection
+EndGlobal

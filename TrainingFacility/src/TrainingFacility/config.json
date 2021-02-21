@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "TrainingFacility"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-TrainingFacility-3d33faca-50db-45c8-a24c-e206a777d62c;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
